@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Responsive-Travel-Guide-Website/static/css/main.6631ac86.chunk.css",
+    "main.js": "/React-Responsive-Travel-Guide-Website/static/js/main.691098a0.chunk.js",
+    "main.js.map": "/React-Responsive-Travel-Guide-Website/static/js/main.691098a0.chunk.js.map",
+    "runtime-main.js": "/React-Responsive-Travel-Guide-Website/static/js/runtime-main.e9d51ec8.js",
+    "runtime-main.js.map": "/React-Responsive-Travel-Guide-Website/static/js/runtime-main.e9d51ec8.js.map",
+    "static/js/2.6dceca04.chunk.js": "/React-Responsive-Travel-Guide-Website/static/js/2.6dceca04.chunk.js",
+    "static/js/2.6dceca04.chunk.js.map": "/React-Responsive-Travel-Guide-Website/static/js/2.6dceca04.chunk.js.map",
+    "index.html": "/React-Responsive-Travel-Guide-Website/index.html",
+    "static/css/main.6631ac86.chunk.css.map": "/React-Responsive-Travel-Guide-Website/static/css/main.6631ac86.chunk.css.map",
+    "static/js/2.6dceca04.chunk.js.LICENSE.txt": "/React-Responsive-Travel-Guide-Website/static/js/2.6dceca04.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Responsive-Travel-Guide-Website/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9d51ec8.js",
+    "static/js/2.6dceca04.chunk.js",
+    "static/css/main.6631ac86.chunk.css",
+    "static/js/main.691098a0.chunk.js"
+  ]
+}

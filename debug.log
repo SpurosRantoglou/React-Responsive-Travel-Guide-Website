@@ -1,0 +1,3 @@
+[0115/030209.508:ERROR:file_io.cc(135)] WriteFile: Δεν υπάρχει αρκετός χώρος στο δίσκο. (0x70)
+[0115/030209.510:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\SpyR\AppData\Local\Google\Chrome\User Data\Crashpad\reports\def1e284-5937-49f5-b95e-9449a4cae067.dmp: Δεν ήταν δυνατή η προσπέλαση του αρχείου από τη διεργασία, επειδή χρησιμοποιείται ήδη από κάποια άλλη διεργασία. (0x20)
+[0115/030211.959:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Η διοχέτευση έχει τερματιστεί. (0x6D)
